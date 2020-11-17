@@ -41,7 +41,7 @@ https://drive.google.com/file/d/1O-k3FQZnnxhegyQkC5HIQaIt2rUVq5z0/view?usp=shari
 https://drive.google.com/file/d/1crBbaQMYMd2JPIjwu7Kb9GaTICAEtUbB/view?usp=sharing 6
 https://drive.google.com/file/d/1LXtoaD5djBA5rxuG_z1brLnJN40a6v8C/view?usp=sharing 7 
 
-[Video to final iteration of noise mappign with potentiometer](https://drive.google.com/file/d/15EW5iCfOGGJqcq-c_wyFkucRFFHtH8r-/view?usp=sharing)
+[Video to final iteration of noise mapping with potentiometer](https://drive.google.com/file/d/15EW5iCfOGGJqcq-c_wyFkucRFFHtH8r-/view?usp=sharing)
 
 Deanna's Videos:
 
