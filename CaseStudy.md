@@ -50,13 +50,16 @@ Deanna's Videos:
 Motor with Posenet
 
 https://drive.google.com/file/d/1YWXn6mm9NHg4N1eH8VnqJbd2hiljQXC0/view?usp=sharing
+
 LED brightness with Posenet
 
 https://drive.google.com/file/d/1YWXn6mm9NHg4N1eH8VnqJbd2hiljQXC0/view?usp=sharing
 https://drive.google.com/file/d/1Ww53fMhjRjvKomOwr_nP8jqYii1oapP3/view?usp=sharing
+
 Posent and Distance Sensor
 
 https://drive.google.com/file/d/1e-kS4PFkmydM4JNUotsWOAFEb4_IQSIj/view?usp=sharing
+
 LED switch with Posenet
 
 https://drive.google.com/file/d/1SQCf-iptqrPb_7XXofQqy9wguWAVrn__/view?usp=sharing
