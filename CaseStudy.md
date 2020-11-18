@@ -23,10 +23,10 @@ One member, Jody experimented mostly with Arduino and the components of colour c
 
 #### Jody's Videos:
 
-[Colour Sensor](https://drive.google.com/file/d/18pBv2CVDGkopriu3Afy3Qzx3NriUuPrV/view?usp=sharing)
-https://drive.google.com/file/d/1P8KKth2UHCCj0yrHhAXooMw1Y2S6YP74/view?usp=sharing
-https://drive.google.com/file/d/1YC2MCliezfr0LQWQ3WDFxWaWYcMcv4FJ/view?usp=sharing
-https://drive.google.com/file/d/1YC2MCliezfr0LQWQ3WDFxWaWYcMcv4FJ/view?usp=sharing
+[Colour Sensor](https://drive.google.com/file/d/18pBv2CVDGkopriu3Afy3Qzx3NriUuPrV/view?usp=sharing),
+[LED Switch](https://drive.google.com/file/d/1P8KKth2UHCCj0yrHhAXooMw1Y2S6YP74/view?usp=sharing),
+[LED with Battery](https://drive.google.com/file/d/1YC2MCliezfr0LQWQ3WDFxWaWYcMcv4FJ/view?usp=sharing),
+[LED with Potentiometer](https://drive.google.com/file/d/1YC2MCliezfr0LQWQ3WDFxWaWYcMcv4FJ/view?usp=sharing)
 
 
 Another group member, Deanna focused on using the P5.js library of PoseNet. This allowed them to create serial communication between various lights, distance sensors and servo motors.
@@ -35,17 +35,14 @@ Another group member, Deanna focused on using the P5.js library of PoseNet. This
 
 [Motor with Posenet](https://drive.google.com/file/d/1YWXn6mm9NHg4N1eH8VnqJbd2hiljQXC0/view?usp=sharing)
 
-LED brightness with Posenet
 
-https://drive.google.com/file/d/1YWXn6mm9NHg4N1eH8VnqJbd2hiljQXC0/view?usp=sharing
-https://drive.google.com/file/d/1Ww53fMhjRjvKomOwr_nP8jqYii1oapP3/view?usp=sharing
+[LED brightness with Posenet](https://drive.google.com/file/d/1YWXn6mm9NHg4N1eH8VnqJbd2hiljQXC0/view?usp=sharing),
+[LED brightness with Posenet and Distance Sensor](https://drive.google.com/file/d/1Ww53fMhjRjvKomOwr_nP8jqYii1oapP3/view?usp=sharing)
 
 [Posent and Distance Sensor](https://drive.google.com/file/d/1e-kS4PFkmydM4JNUotsWOAFEb4_IQSIj/view?usp=sharing)
 
-LED switch with Posenet
-
-https://drive.google.com/file/d/1SQCf-iptqrPb_7XXofQqy9wguWAVrn__/view?usp=sharing
-https://drive.google.com/file/d/1unHZOmVWPhGq7xYx7NjwqDMQeCC38iAr/view?usp=sharing
+[LED switch with Posenet](https://drive.google.com/file/d/1SQCf-iptqrPb_7XXofQqy9wguWAVrn__/view?usp=sharing),
+[Multiple LED Swtich](https://drive.google.com/file/d/1unHZOmVWPhGq7xYx7NjwqDMQeCC38iAr/view?usp=sharing)
 
 #### Scope & Constraints 
 
