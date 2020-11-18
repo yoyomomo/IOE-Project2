@@ -1,9 +1,10 @@
 # EngM IOE-Project2
 
-Physical Computing and Interactive Tech
-Using Arduino and P5.js
+## Physical Computing and Interactive Tech
 
-Overview
+### Using Arduino and P5.js
+
+##### Overview
 
 The project uses physical computing with Arduino and P5.js and or other web browser components that can be used to create an interaction between the Arduino and the browser and vice versa. Using a potentiometer and the data input into the serial monitor, that data is transferred over to the P5.js sketch using serial communication. This allowed for a dynamic P5 sketch that showed a visual representation of the potentiometer’s values using the noise mapping function in P5.
 
