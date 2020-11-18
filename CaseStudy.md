@@ -13,14 +13,14 @@ Using Arduino and P5.js
 
 Video of testing P5 LED switch:
 
-[LED Test 1](https://drive.google.com/file/d/1UpvtF59pGtPHxbXwP6O44KhjvKG_k4My/view?usp=sharing)
-[LED Test 2](https://drive.google.com/file/d/1XRBG_8xVDijvKF6GwZ-MMFHhLDYP4Nln/view?usp=sharing)
+[LED Test 1](https://drive.google.com/file/d/1UpvtF59pGtPHxbXwP6O44KhjvKG_k4My/view?usp=sharing),
+[LED Test 2](https://drive.google.com/file/d/1XRBG_8xVDijvKF6GwZ-MMFHhLDYP4Nln/view?usp=sharing),
 [LED Test 3](https://drive.google.com/file/d/1spA42w43NjKXsDwxiZ8OR3uykIP118Aq/view?usp=sharing)
 
 Video of testing P5 to servo switch:
 
-[Servo Test 1](https://drive.google.com/file/d/1OYIzIHbXI4fkDA10jyA6O_1yvOfnzV49/view?usp=sharing)
-[Servo Test 2](https://drive.google.com/file/d/1OofD1-KxzlFcrtIxxAPj2dxCJK_7zTmb/view?usp=sharing)
+[Servo Test 1](https://drive.google.com/file/d/1OYIzIHbXI4fkDA10jyA6O_1yvOfnzV49/view?usp=sharing),
+[Servo Test 2](https://drive.google.com/file/d/1OofD1-KxzlFcrtIxxAPj2dxCJK_7zTmb/view?usp=sharing),
 [Servo Test 3](https://drive.google.com/file/d/1vaiNnmXhMtSjlH3NSJpZhaoXnv4MgAH1/view?usp=sharing)
 
 [Video of testing value change with photoresistor to P5](https://drive.google.com/file/d/19Bqtl2Q1Uxy1HjWtPf-tnkfXkl5F86Q0/view?usp=sharing)
@@ -29,12 +29,12 @@ Video of testing P5 to servo switch:
 
 Video of different iterations of noise mapping with potentiometer:
 
-[Iteration 1](https://drive.google.com/file/d/1pl4_BC4Xd-gzTPGPt-MMrBnd3uTF8ncW/view?usp=sharing)
-[Iteration 2](https://drive.google.com/file/d/1Sq1ed7HP1tR2GkeKeYtWaeYszvnzPoH-/view?usp=sharing)
-[Iteration 3](https://drive.google.com/file/d/1u_CpudUEW5dZMEnmwfc-Jr42clNjruMB/view?usp=sharing)
-[Iteration 4](https://drive.google.com/file/d/1E574ibDxSmb0jT8BY6sfIeMLDHq1L-Il/view?usp=sharing)
-[Iteration 5](https://drive.google.com/file/d/1O-k3FQZnnxhegyQkC5HIQaIt2rUVq5z0/view?usp=sharing)
-[Iteration 6](https://drive.google.com/file/d/1crBbaQMYMd2JPIjwu7Kb9GaTICAEtUbB/view?usp=sharing)
+[Iteration 1](https://drive.google.com/file/d/1pl4_BC4Xd-gzTPGPt-MMrBnd3uTF8ncW/view?usp=sharing),
+[Iteration 2](https://drive.google.com/file/d/1Sq1ed7HP1tR2GkeKeYtWaeYszvnzPoH-/view?usp=sharing),
+[Iteration 3](https://drive.google.com/file/d/1u_CpudUEW5dZMEnmwfc-Jr42clNjruMB/view?usp=sharing),
+[Iteration 4](https://drive.google.com/file/d/1E574ibDxSmb0jT8BY6sfIeMLDHq1L-Il/view?usp=sharing),
+[Iteration 5](https://drive.google.com/file/d/1O-k3FQZnnxhegyQkC5HIQaIt2rUVq5z0/view?usp=sharing),
+[Iteration 6](https://drive.google.com/file/d/1crBbaQMYMd2JPIjwu7Kb9GaTICAEtUbB/view?usp=sharing),
 [Iteration 7](https://drive.google.com/file/d/1LXtoaD5djBA5rxuG_z1brLnJN40a6v8C/view?usp=sharing)
 
 [Video to final iteration of noise mapping with potentiometer](https://drive.google.com/file/d/15EW5iCfOGGJqcq-c_wyFkucRFFHtH8r-/view?usp=sharing)
