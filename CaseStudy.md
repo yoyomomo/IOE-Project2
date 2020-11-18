@@ -64,28 +64,28 @@ For a better understanding of how serial communication between P5 and Arduino wo
 
 The project had multiple kinds of Arduino and P5 sketches provided to experiment and explore the different ways serial communication worked. 
 
-##### Video of testing P5 LED switch:
+Video of testing P5 LED switch:
 
 [LED Test 1](https://drive.google.com/file/d/1UpvtF59pGtPHxbXwP6O44KhjvKG_k4My/view?usp=sharing),
 [LED Test 2](https://drive.google.com/file/d/1XRBG_8xVDijvKF6GwZ-MMFHhLDYP4Nln/view?usp=sharing),
 [LED Test 3](https://drive.google.com/file/d/1spA42w43NjKXsDwxiZ8OR3uykIP118Aq/view?usp=sharing)
 
-##### Video of testing P5 to servo switch:
+Video of testing P5 to servo switch:
 
 [Servo Test 1](https://drive.google.com/file/d/1OYIzIHbXI4fkDA10jyA6O_1yvOfnzV49/view?usp=sharing),
 [Servo Test 2](https://drive.google.com/file/d/1OofD1-KxzlFcrtIxxAPj2dxCJK_7zTmb/view?usp=sharing),
 [Servo Test 3](https://drive.google.com/file/d/1vaiNnmXhMtSjlH3NSJpZhaoXnv4MgAH1/view?usp=sharing)
 
-##### [Video of testing value change with photoresistor to P5](https://drive.google.com/file/d/19Bqtl2Q1Uxy1HjWtPf-tnkfXkl5F86Q0/view?usp=sharing)
+[Video of testing value change with photoresistor to P5](https://drive.google.com/file/d/19Bqtl2Q1Uxy1HjWtPf-tnkfXkl5F86Q0/view?usp=sharing)
 
-##### [Video of testing value change with potentiometer to P5](https://drive.google.com/file/d/1IHgYaMWaHaOmVaAY0Y9-_bBRfdd84hT9/view?usp=sharing)
+[Video of testing value change with potentiometer to P5](https://drive.google.com/file/d/1IHgYaMWaHaOmVaAY0Y9-_bBRfdd84hT9/view?usp=sharing)
 
 After working with different kinds of sensors, LEDs and servo interactions, one of the final directions the project went in was using noise mapping to create a visual expression of the potentiometer's value. Initially, there were some issues with the mapping of the values of the potentiometer and it would only show a brief spike in the change in values. However, at the end of the project, a proper expression of when the potentiometer is at the minimum value and at the maximum value was expressed.
 
 ![Brackets Code for P5](https://github.com/yoyomomo/IOE-Project2/blob/main/imgs/img6.png)
 ![Arduino Codes](https://github.com/yoyomomo/IOE-Project2/blob/main/imgs/img7.png)
 
-##### Video of different iterations of noise mapping with potentiometer:
+Video of different iterations of noise mapping with potentiometer:
 
 [Iteration 1](https://drive.google.com/file/d/1pl4_BC4Xd-gzTPGPt-MMrBnd3uTF8ncW/view?usp=sharing),
 [Iteration 2](https://drive.google.com/file/d/1Sq1ed7HP1tR2GkeKeYtWaeYszvnzPoH-/view?usp=sharing),
